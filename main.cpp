@@ -17,7 +17,7 @@ using namespace std;
     * Calculate 1 Student Average Using Array
 
         # Steps
-            1- Read 100 students degrees Procedural ==> void + call by ref  * (Array by dafault by ref)
+            1- Read student degrees Procedural ==> void + call by ref  * (Array by dafault by ref)
                 ReadStudentsDegree()
             2- Print what readed (Display only)
             3- Calculate sum of degrees
